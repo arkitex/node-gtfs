@@ -1,5 +1,7 @@
 #Node-GTFS
 
+[![Join the chat at https://gitter.im/arkitex/node-gtfs](https://badges.gitter.im/arkitex/node-gtfs.svg)](https://gitter.im/arkitex/node-gtfs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 node-GTFS loads transit data in [GTFS format](https://developers.google.com/transit/) from [GTFS Data Exchange](http://www.gtfs-data-exchange.com/), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times.  It also has spatial queries to find nearby stops, routes and agencies.
 
 ##Configuration for loading data
